@@ -27,7 +27,7 @@ This project is designed to be simple, intuitive, and efficient, making it easy 
 
 Here’s a screenshot of the application in action:
 
-![Demo Screenshot](final_deploymen.png)
+![Demo Screenshot](final_deployment.png)
 
 ## **Installation**
 
